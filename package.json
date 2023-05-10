@@ -1,0 +1,18 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "A jest + npm lab session",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(hhttps://github.com/nisarsangin/testing-with-jest)"
+  },
+  "author": "Nisar Sangin",
+  "license": "MIT"
+}
