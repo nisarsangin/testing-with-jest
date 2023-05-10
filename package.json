@@ -14,5 +14,8 @@
     "url": "(hhttps://github.com/nisarsangin/testing-with-jest)"
   },
   "author": "Nisar Sangin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
 }
