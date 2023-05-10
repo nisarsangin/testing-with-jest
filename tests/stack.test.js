@@ -24,5 +24,5 @@ test("pop on stack with two elements and return the top element", () => {
     stack.push("goodbye");
 
     const element = stack.pop();
-    expect(element).toBe("hey")
+    expect(element).toBe("goodbye")
 })

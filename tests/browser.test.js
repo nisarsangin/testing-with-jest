@@ -33,7 +33,7 @@ test ('peek should be return top element in stack', async () => {
 	let peek = await driver.findElement(By.id('peek'));
 
 	let stack = await driver.findElement(By.id('top_of_stack')).getText();
-	expect(stack).toEqual("SKA FAILA");
+	expect(stack).toEqual("HEJ");
 })
 
 describe('Clicking "Pusha till stacken"', () => {
